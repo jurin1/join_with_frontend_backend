@@ -7,7 +7,7 @@ This repository serves as a meta-project that integrates both the frontend and b
 To clone this repository along with its submodules, use the following command:
 
 ```sh
-git clone --recurse-submodules https://github.com/your-username/project-management-suite.git
+git clone --recurse-submodules https://github.com/jurin1/join_with_frontend_backend.git
 ```
 
 If you have already cloned the repository without submodules, initialize and update them with:
